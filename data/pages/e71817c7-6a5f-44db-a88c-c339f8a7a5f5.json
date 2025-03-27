@@ -1,0 +1,51 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "compare:"
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "95c99cbc-b891-4fb4-abf3-75e853984ff0"
+      },
+      "event2": {
+        "uuid": "1dbafe5d-0157-4bc3-bb66-f19d1019d748"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Filling Station Cmparison",
+  "parent": "922c3a04-089b-4fe6-a5b9-a6ac196da618",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "filling-station-cmparison",
+  "created_at": "2025-03-27T18:33:12.745Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-03-27T18:33:12.745Z",
+  "updated_by": "SteveMarvin"
+}
