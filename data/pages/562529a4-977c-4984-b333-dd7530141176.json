@@ -1,15 +1,1 @@
-{
-  "content": [],
-  "created_at": "2025-03-27T18:07:45.815Z",
-  "created_by": "SteveMarvin",
-  "title": "Elizabeth Bishop reads \"Filling Station\"",
-  "slug": "elizabeth-bishop-reads-filling-station",
-  "updated_at": "2025-03-27T18:07:45.816Z",
-  "updated_by": "SteveMarvin",
-  "parent": "922c3a04-089b-4fe6-a5b9-a6ac196da618",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "95c99cbc-b891-4fb4-abf3-75e853984ff0"
-  }
-}
+{"content":[],"created_at":"2025-03-27T18:07:45.815Z","created_by":"SteveMarvin","title":"Elizabeth Bishop reads \"Filling Station\"","slug":"elizabeth-bishop-reads-filling-station","updated_at":"2025-03-27T18:07:45.816Z","updated_by":"SteveMarvin","parent":"922c3a04-089b-4fe6-a5b9-a6ac196da618","autogenerate":{"enabled":true,"type":"event","type_id":"95c99cbc-b891-4fb4-abf3-75e853984ff0"}}
